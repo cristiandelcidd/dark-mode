@@ -1,6 +1,6 @@
 {
   "name": "@cristiandelcidd/dark-mode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enable the dark mode in your website",
   "main": "index.js",
   "scripts": {
