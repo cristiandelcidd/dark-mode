@@ -6,4 +6,4 @@ function darkMode(options) {
   }
 }
 
-module.exports.imageconfig = darkMode;
+module.exports.darkMode = darkMode;
