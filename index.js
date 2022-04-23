@@ -3,6 +3,8 @@ function darkMode(options) {
 
   if (options.enabled) {
     html.style.filter = "invert(1)";
+  } else {
+    html.style.filter = "none";
   }
 }
 
